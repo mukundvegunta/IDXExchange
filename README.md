@@ -39,14 +39,14 @@ This repository demonstrates a complete analytics workflow used for housing mark
 - Resample weekly data to monthly averages
 - Merge economic indicators with MLS transactions
 
-### Data Cleaning
+### Week 5: Data Cleaning
 - Date conversion and validation
 - Numeric type corrections
 - Missing value handling
 - Geographic coordinate checks
 - Invalid record flagging
 
-### Feature Engineering
+### Week 6: Feature Engineering
 Generate metrics such as:
 
 - Price Ratio
