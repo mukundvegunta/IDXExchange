@@ -23,18 +23,18 @@ This repository demonstrates a complete analytics workflow used for housing mark
 
 ## Features
 
-### Data Aggregation
+### Week 1: Data Aggregation
 - Combine monthly MLS listing and sold files
 - Filter to residential properties
 - Create unified time-series datasets
 
-### Exploratory Data Analysis
+### Weeks 2-3: Exploratory Data Analysis
 - Missing value analysis
 - Distribution summaries
 - Data quality checks
 - Property type breakdowns
 
-### External Data Enrichment
+### Week 4: External Data Enrichment
 - Pull 30-year mortgage rates from FRED
 - Resample weekly data to monthly averages
 - Merge economic indicators with MLS transactions
