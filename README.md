@@ -57,12 +57,12 @@ Generate metrics such as:
 - Contract-to-Close Days
 - Year-Month variables
 
-### Outlier Detection
+### Week 7: Outlier Detection
 - IQR-based outlier identification
 - Flag extreme observations without deleting raw records
 - Create filtered analysis datasets
 
-### Tableau Dashboards
+### Weeks 8-10: Tableau Dashboards
 #### Market Analysis
 - Median close price trends
 - Average days on market
