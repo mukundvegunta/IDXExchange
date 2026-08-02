@@ -77,7 +77,7 @@ Generate metrics such as:
 - Sales volume analysis
 
 ### Weeks 11-12: Summarizing Findings for Santa Cruz
-#### Market Intelligence Report
+#### One-Page Market Intelligence Report
 - Market overview
 - Pricing trends
 - Market activity
