@@ -76,3 +76,17 @@ Generate metrics such as:
 - ZIP code heat maps
 - Sales volume analysis
 
+### Weeks 11-12: Summarizing Findings
+#### Market Intelligence Report
+- Market overview
+- Pricing trends
+- Market activity
+- Competitive landscape
+- Key data-driven insights
+
+#### Final Presentation
+- Overview of the data pipeline
+- Data cleaning and feature engineering process
+- Dashboard walkthrough
+- Market insights and conclusions
+
