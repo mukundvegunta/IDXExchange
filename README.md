@@ -76,7 +76,7 @@ Generate metrics such as:
 - ZIP code heat maps
 - Sales volume analysis
 
-### Weeks 11-12: Summarizing Findings
+### Weeks 11-12: Summarizing Findings for Santa Cruz
 #### Market Intelligence Report
 - Market overview
 - Pricing trends
